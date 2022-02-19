@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "project",
-    "slug": "project",
-    "version": "1.0.0",
+    "name": "Budget",
+    "slug": "budget",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "thiomark.budgetapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
